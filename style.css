@@ -622,3 +622,10 @@ li .home {
 		height:40px;
 	}
 }
+
+
+@media (max-width: 450px) {
+	.footer-col2 ul {
+		flex-direction: column;
+	}
+}
