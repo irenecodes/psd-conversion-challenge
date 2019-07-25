@@ -565,6 +565,14 @@ li .home {
 
 /* Landscape phones and down */
 @media (max-width: 480px) {
+	h1 {
+		font-size:2rem;
+	}
+
+	.menu a {
+		font-size: 2rem;
+	}
+
 	aside {
 		margin-bottom:20px;
 		width: 100%;
